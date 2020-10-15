@@ -36,8 +36,7 @@ I am✨***Prachi Khobragade***✨, pursuing MSc. degree in (Information Technolo
 <img align="left" width="30px" alt="CoderSoul-Prch | LinkedIn" src="https://simpleicons.org/icons/django.svg"/>
 <img align="left" width="30px" alt="CoderSoul-Prch | LinkedIn" src="https://simpleicons.org/icons/mongodb.svg"/>
 <img align="left" width="30px" alt="CoderSoul-Prch | LinkedIn" src="https://simpleicons.org/icons/postgresql.svg"/>
-<img align="left" width="30px" alt="CoderSoul-Prch | LinkedIn" src="https://simpleicons.org/icons/xamarin.svg"/>
-<img align="left" width="30px" alt="CoderSoul-Prch | LinkedIn" src="https://simpleicons.org/icons/tensorflow.svg"/>
+
 
 [linkedin]: https://www.linkedin.com/in/prachi-khobragade-90029716b
 
