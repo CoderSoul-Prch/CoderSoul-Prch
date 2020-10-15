@@ -7,6 +7,9 @@ I am✨***Prachi Khobragade***✨, pursuing MSc. degree in (Information Technolo
 
 
 
+<br/>
+
+
 <img align="left" width="100px" alt="GitHub followers" src="https://img.shields.io/github/followers/CoderSoul-Prch?style=social"/>[<img align="left" alt = "hackerRank" src="https://img.shields.io/badge/HackRank-Programming-green" />][websitea]
   
 
@@ -17,6 +20,8 @@ I am✨***Prachi Khobragade***✨, pursuing MSc. degree in (Information Technolo
 [websitea]: https://www.hackerrank.com/prachi_raju123
 </br>
 - 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning.
+
+<br/>
 
 ## ***📫 Connect with me :***
 
