@@ -49,4 +49,4 @@ I am✨***Prachi Khobragade***✨, pursuing MSc. degree in (Information Technolo
 ---
 
 ### *Statistics*
-
+ <img align="left" alt="TechRoC's GitHub stats" src="https://github-readme-stats-seven-neon.vercel.app/api?username=TechRoC&show_icons=False&hide_border=True"/>
